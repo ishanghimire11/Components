@@ -1,5 +1,5 @@
-import React, { useState } from "react";
 import { cn } from "src/utils/cn";
+import React, { useState } from "react";
 
 interface ImageLoaderProps {
   imageUrl: string;
